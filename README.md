@@ -11,7 +11,7 @@ I'm Prachi, a Master's student in Economics at NUS, with a robust background in 
 
 ## My Passion
 
-I am deeply invested in mathematical and econometric modeling, translating theoretical concepts into practical strategies. Currently, I'm exploring innovative applications in behavioral economics using Python.
+I am deeply invested in mathematical and econometric modeling, translating theoretical concepts into practical strategies. Currently, I'm trying to explore innovative applications in behavioral economics using Python.
 
 ## My Coding Journey
 
